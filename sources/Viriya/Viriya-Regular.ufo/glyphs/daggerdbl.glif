@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="448"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="239.316" y="230.51000000000002" type="line"/>
+      <point x="245.532" y="397.824" type="line"/>
+      <point x="239.316" y="556.85" type="line"/>
+      <point x="387.982" y="551.6700000000001" type="line"/>
+      <point x="387.982" y="603.47" type="line"/>
+      <point x="239.316" y="594.1460000000001" type="line"/>
+      <point x="251.74800000000002" y="787.36" type="line"/>
+      <point x="186.99800000000002" y="787.36" type="line"/>
+      <point x="198.912" y="594.1460000000001" type="line"/>
+      <point x="59.57" y="603.47" type="line"/>
+      <point x="59.57" y="551.6700000000001" type="line"/>
+      <point x="198.912" y="556.85" type="line"/>
+      <point x="192.178" y="397.824" type="line"/>
+      <point x="198.912" y="230.51000000000002" type="line"/>
+      <point x="59.57" y="235.69" type="line"/>
+      <point x="59.57" y="183.89000000000001" type="line"/>
+      <point x="198.912" y="192.178" type="line"/>
+      <point x="186.99800000000002" y="0.0" type="line"/>
+      <point x="251.74800000000002" y="0.0" type="line"/>
+      <point x="239.316" y="192.178" type="line"/>
+      <point x="387.982" y="183.89000000000001" type="line"/>
+      <point x="387.982" y="235.69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPPPC</string>
+    </dict>
+  </lib>
+</glyph>

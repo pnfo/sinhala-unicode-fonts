@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="197"/>
+  <unicode hex="013E"/>
+  <anchor x="98" y="0" name="L18c0"/>
+  <anchor x="98" y="277" name="L21c0"/>
+  <anchor x="98" y="787" name="L25c0"/>
+  <anchor x="148" y="787" name="L27c0"/>
+  <outline>
+    <contour>
+      <point x="247.604" y="777.0" type="curve"/>
+      <point x="247.604" y="787.36" type="line"/>
+      <point x="186.99800000000002" y="787.36" type="line"/>
+      <point x="186.65266666666668" y="779.7626666666667"/>
+      <point x="185.44400000000002" y="768.4530000000001"/>
+      <point x="183.372" y="753.431" type="curve" smooth="yes"/>
+      <point x="181.3" y="738.409"/>
+      <point x="178.96900000000002" y="722.5236666666667"/>
+      <point x="176.37900000000002" y="705.7750000000001" type="curve" smooth="yes"/>
+      <point x="173.78900000000002" y="689.0263333333334"/>
+      <point x="171.199" y="673.8316666666667"/>
+      <point x="168.609" y="660.191" type="curve" smooth="yes"/>
+      <point x="166.019" y="646.5503333333334"/>
+      <point x="164.03333333333336" y="637.3126666666667"/>
+      <point x="162.65200000000002" y="632.4780000000001" type="curve"/>
+      <point x="162.65200000000002" y="619.528" type="line"/>
+      <point x="192.178" y="619.528" type="line"/>
+      <point x="199.43" y="630.5786666666667"/>
+      <point x="206.76833333333335" y="645.946"/>
+      <point x="214.193" y="665.6300000000001" type="curve" smooth="yes"/>
+      <point x="221.61766666666668" y="685.3140000000001"/>
+      <point x="228.43800000000002" y="705.5160000000001"/>
+      <point x="234.654" y="726.2360000000001" type="curve" smooth="yes"/>
+      <point x="240.87" y="746.956"/>
+      <point x="245.18666666666667" y="763.8773333333334"/>
+    </contour>
+    <contour>
+      <point x="125.87400000000001" y="0.0" type="line"/>
+      <point x="125.87400000000001" y="787.36" type="line"/>
+      <point x="70.44800000000001" y="787.36" type="line"/>
+      <point x="70.44800000000001" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>czechcaron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

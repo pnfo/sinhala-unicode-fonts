@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="302"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="194.02" y="68.77960632324219" type="line"/>
+      <point x="243.50316345214844" y="68.77960632324219" type="line"/>
+      <point x="153.61316345214843" y="240.3" type="line"/>
+      <point x="243.50316345214844" y="411.8203936767578" type="line"/>
+      <point x="194.02" y="411.8203936767578" type="line"/>
+      <point x="57.85" y="256.9603936767578" type="line"/>
+      <point x="57.85" y="223.6396063232422" type="line"/>
+    </contour>
+  </outline>
+</glyph>

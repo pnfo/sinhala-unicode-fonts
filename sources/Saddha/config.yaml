@@ -1,0 +1,12 @@
+sources:
+- Saddha.designspace
+familyName: Saddha
+buildVariable: true
+buildStatic: true
+buildOTF: false
+buildWebfont: true
+autohintTTF: true
+ttfaUseScript: true
+outputDir: ../../fonts/saddha
+axisOrder:
+- wght

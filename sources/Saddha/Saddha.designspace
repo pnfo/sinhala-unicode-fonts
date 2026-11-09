@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="800" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Saddha-Regular.ufo" familyname="Saddha" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Saddha-ExtraBold.ufo" familyname="Saddha" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Saddha" stylename="Regular" filename="instance_ufos/Saddha-Regular.ufo" postscriptfontname="Saddha-Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="Saddha" stylename="Medium" filename="instance_ufos/Saddha-Medium.ufo" postscriptfontname="Saddha-Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="Saddha" stylename="SemiBold" filename="instance_ufos/Saddha-SemiBold.ufo" postscriptfontname="Saddha-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="Saddha" stylename="Bold" filename="instance_ufos/Saddha-Bold.ufo" postscriptfontname="Saddha-Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Saddha" stylename="ExtraBold" filename="instance_ufos/Saddha-ExtraBold.ufo" postscriptfontname="Saddha-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

@@ -1,0 +1,10 @@
+sources:
+- Sila-Regular.ufo
+familyName: Sila
+buildVariable: false
+buildStatic: true
+buildOTF: false
+buildWebfont: true
+autohintTTF: true
+ttfaUseScript: true
+outputDir: ../../fonts/sila

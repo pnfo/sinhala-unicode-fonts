@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sinVirama" format="2">
+  <unicode hex="0DCA"/>
+  <outline>
+    <contour>
+      <point x="-63" y="697" type="line"/>
+      <point x="-113" y="697" type="line"/>
+      <point x="-113" y="548" type="line"/>
+      <point x="-63" y="548" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

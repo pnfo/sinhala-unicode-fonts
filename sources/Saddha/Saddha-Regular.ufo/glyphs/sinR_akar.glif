@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sinRakar" format="2">
+  <outline>
+    <contour>
+      <point x="-346.0" y="-148.0" type="curve" smooth="yes"/>
+      <point x="-389.3333333333333" y="-148.0"/>
+      <point x="-426.3333333333333" y="-143.83333333333334"/>
+      <point x="-457.0" y="-135.5" type="curve" smooth="yes"/>
+      <point x="-487.6666666666667" y="-127.16666666666667"/>
+      <point x="-513.0" y="-116.83333333333333"/>
+      <point x="-533.0" y="-104.5" type="curve" smooth="yes"/>
+      <point x="-553.0" y="-92.16666666666667"/>
+      <point x="-567.5" y="-79.0"/>
+      <point x="-576.5" y="-65.0" type="curve" smooth="yes"/>
+      <point x="-585.5" y="-51.0"/>
+      <point x="-590.0" y="-38.33333333333333"/>
+      <point x="-590.0" y="-27.0" type="curve"/>
+      <point x="-622.0" y="-26.0" type="line"/>
+      <point x="-624.0" y="-54.666666666666664"/>
+      <point x="-620.0" y="-80.66666666666667"/>
+      <point x="-610.0" y="-104.0" type="curve" smooth="yes"/>
+      <point x="-600.0" y="-127.33333333333333"/>
+      <point x="-584.1666666666666" y="-147.5"/>
+      <point x="-562.5" y="-164.5" type="curve" smooth="yes"/>
+      <point x="-540.8333333333334" y="-181.5"/>
+      <point x="-513.3333333333334" y="-194.83333333333334"/>
+      <point x="-480.0" y="-204.5" type="curve" smooth="yes"/>
+      <point x="-446.6666666666667" y="-214.16666666666666"/>
+      <point x="-407.6666666666667" y="-219.0"/>
+      <point x="-363.0" y="-219.0" type="curve" smooth="yes"/>
+      <point x="-315.6666666666667" y="-219.0"/>
+      <point x="-272.6666666666667" y="-212.66666666666666"/>
+      <point x="-234.0" y="-200.0" type="curve" smooth="yes"/>
+      <point x="-195.33333333333334" y="-187.33333333333334"/>
+      <point x="-162.66666666666666" y="-170.33333333333334"/>
+      <point x="-136.0" y="-149.0" type="curve" smooth="yes"/>
+      <point x="-109.33333333333334" y="-127.66666666666667"/>
+      <point x="-89.0" y="-103.0"/>
+      <point x="-75.0" y="-75.0" type="curve" smooth="yes"/>
+      <point x="-61.0" y="-47.0"/>
+      <point x="-54.0" y="-18.0"/>
+      <point x="-54.0" y="12.0" type="curve" smooth="yes"/>
+      <point x="-54.0" y="27.333333333333332"/>
+      <point x="-55.5" y="43.16666666666667"/>
+      <point x="-58.5" y="59.5" type="curve" smooth="yes"/>
+      <point x="-61.5" y="75.83333333333333"/>
+      <point x="-68.33333333333333" y="92.0"/>
+      <point x="-79.0" y="108.0" type="curve"/>
+      <point x="-105.0" y="94.0" type="line"/>
+      <point x="-97.66666666666667" y="85.33333333333333"/>
+      <point x="-92.83333333333333" y="76.0"/>
+      <point x="-90.5" y="66.0" type="curve" smooth="yes"/>
+      <point x="-88.16666666666667" y="56.0"/>
+      <point x="-87.0" y="43.666666666666664"/>
+      <point x="-87.0" y="29.0" type="curve" smooth="yes"/>
+      <point x="-87.0" y="8.333333333333336"/>
+      <point x="-92.33333333333333" y="-12.5"/>
+      <point x="-103.0" y="-33.5" type="curve" smooth="yes"/>
+      <point x="-113.66666666666667" y="-54.5"/>
+      <point x="-129.66666666666666" y="-73.33333333333334"/>
+      <point x="-151.0" y="-90.0" type="curve" smooth="yes"/>
+      <point x="-172.33333333333334" y="-106.66666666666666"/>
+      <point x="-199.33333333333334" y="-120.5"/>
+      <point x="-232.0" y="-131.5" type="curve" smooth="yes"/>
+      <point x="-264.6666666666667" y="-142.5"/>
+      <point x="-302.6666666666667" y="-148.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+    </dict>
+  </lib>
+</glyph>

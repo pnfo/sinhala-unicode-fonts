@@ -1,0 +1,10 @@
+sources:
+- Viriya-Regular.ufo
+familyName: Viriya
+buildVariable: false
+buildStatic: true
+buildOTF: false
+buildWebfont: true
+autohintTTF: true
+ttfaUseScript: true
+outputDir: ../../fonts/viriya

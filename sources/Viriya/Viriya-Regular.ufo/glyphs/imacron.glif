@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
+  <advance width="196"/>
+  <unicode hex="012B"/>
+  <anchor x="98" y="0" name="L18c0"/>
+  <anchor x="97" y="276" name="L21c0"/>
+  <anchor x="97" y="683" name="L25c0"/>
+  <outline>
+    <contour>
+      <point x="125.35600000000001" y="0.0" type="line"/>
+      <point x="125.35600000000001" y="551.152" type="line"/>
+      <point x="70.44800000000001" y="551.152" type="line"/>
+      <point x="70.44800000000001" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="212.38" y="682.206" type="line"/>
+      <point x="-18.13" y="682.206" type="line"/>
+      <point x="-18.13" y="637.658" type="line"/>
+      <point x="212.38" y="637.658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

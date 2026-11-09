@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="260"/>
+  <unicode hex="0049"/>
+  <anchor x="131" y="0" name="L18c0"/>
+  <anchor x="130" y="370" name="L21c0"/>
+  <anchor x="131" y="740" name="L25c0"/>
+  <anchor x="239" y="740" name="L27c0"/>
+  <outline>
+    <contour>
+      <point x="222.222" y="0.0" type="line"/>
+      <point x="222.222" y="34.706" type="line"/>
+      <point x="158.508" y="45.066" type="line"/>
+      <point x="158.508" y="694.12" type="line"/>
+      <point x="222.222" y="704.998" type="line"/>
+      <point x="222.222" y="739.7040000000001" type="line"/>
+      <point x="37.296" y="739.7040000000001" type="line"/>
+      <point x="37.296" y="704.998" type="line"/>
+      <point x="102.046" y="694.12" type="line"/>
+      <point x="102.046" y="45.066" type="line"/>
+      <point x="37.296" y="34.706" type="line"/>
+      <point x="37.296" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

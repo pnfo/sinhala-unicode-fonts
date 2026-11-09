@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="196"/>
+  <unicode hex="013A"/>
+  <anchor x="98" y="0" name="L18c0"/>
+  <anchor x="98" y="277" name="L21c0"/>
+  <anchor x="98" y="1029" name="L25c0"/>
+  <anchor x="148" y="787" name="L27c0"/>
+  <outline>
+    <contour>
+      <point x="125.87400000000001" y="0.0" type="line"/>
+      <point x="125.87400000000001" y="787.36" type="line"/>
+      <point x="70.44800000000001" y="787.36" type="line"/>
+      <point x="70.44800000000001" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.078" y="1019.942" type="curve"/>
+      <point x="218.078" y="1028.23" type="line"/>
+      <point x="152.292" y="1028.23" type="line"/>
+      <point x="142.96800000000002" y="1011.654"/>
+      <point x="133.03966666666668" y="995.1643333333333"/>
+      <point x="122.507" y="978.761" type="curve" smooth="yes"/>
+      <point x="111.97433333333333" y="962.3576666666667"/>
+      <point x="100.66466666666666" y="945.7816666666668"/>
+      <point x="88.578" y="929.0330000000001" type="curve" smooth="yes"/>
+      <point x="76.49133333333334" y="912.2843333333334"/>
+      <point x="63.196000000000005" y="894.586"/>
+      <point x="48.692" y="875.938" type="curve"/>
+      <point x="48.692" y="864.024" type="line"/>
+      <point x="82.88" y="864.024" type="line"/>
+      <point x="93.24" y="873.6933333333334"/>
+      <point x="104.63600000000001" y="884.9166666666666"/>
+      <point x="117.06800000000001" y="897.694" type="curve" smooth="yes"/>
+      <point x="129.5" y="910.4713333333333"/>
+      <point x="142.01833333333335" y="924.112"/>
+      <point x="154.623" y="938.616" type="curve" smooth="yes"/>
+      <point x="167.22766666666666" y="953.12"/>
+      <point x="179.14166666666668" y="967.3650000000001"/>
+      <point x="190.365" y="981.3510000000001" type="curve" smooth="yes"/>
+      <point x="201.58833333333334" y="995.3370000000001"/>
+      <point x="210.82600000000002" y="1008.2006666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

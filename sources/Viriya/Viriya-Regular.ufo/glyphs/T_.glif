@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="372"/>
+  <unicode hex="0054"/>
+  <anchor x="186" y="0" name="L18c0"/>
+  <anchor x="186" y="370" name="L21c0"/>
+  <anchor x="186" y="740" name="L25c0"/>
+  <anchor x="351" y="740" name="L27c0"/>
+  <outline>
+    <contour>
+      <point x="213.416" y="0.0" type="line"/>
+      <point x="213.416" y="687.386" type="line"/>
+      <point x="361.564" y="687.386" type="line"/>
+      <point x="361.564" y="739.7040000000001" type="line"/>
+      <point x="8.806000000000001" y="739.7040000000001" type="line"/>
+      <point x="8.806000000000001" y="687.386" type="line"/>
+      <point x="156.436" y="687.386" type="line"/>
+      <point x="156.436" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

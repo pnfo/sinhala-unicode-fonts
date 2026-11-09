@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="379"/>
+  <unicode hex="0046"/>
+  <anchor x="190" y="0" name="L18c0"/>
+  <anchor x="219" y="370" name="L21c0"/>
+  <anchor x="221" y="740" name="L25c0"/>
+  <anchor x="358" y="740" name="L27c0"/>
+  <outline>
+    <contour>
+      <point x="135.198" y="0.0" type="line"/>
+      <point x="135.198" y="328.41200000000003" type="line"/>
+      <point x="345.50600000000003" y="328.41200000000003" type="line"/>
+      <point x="345.50600000000003" y="380.73" type="line"/>
+      <point x="135.198" y="380.73" type="line"/>
+      <point x="135.198" y="687.904" type="line"/>
+      <point x="357.938" y="687.904" type="line"/>
+      <point x="357.938" y="739.7040000000001" type="line"/>
+      <point x="78.218" y="739.7040000000001" type="line"/>
+      <point x="78.218" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPC</string>
+    </dict>
+  </lib>
+</glyph>
