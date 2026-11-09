@@ -1,13 +1,13 @@
-# Saddha, Sila and Viriya
+# Saddha, Seela and Viriya
 
 Three Sinhala type families designed by **Pushpananda Ekanayake**, released under the SIL Open Font License 1.1.
 
-![Saddha, Sila and Viriya](documentation/specimen.png)
+![Saddha, Seela and Viriya](documentation/specimen.png)
 
 | Family | Styles | Character |
 |---|---|---|
 | **Saddha** (සද්ධා, "confidence") | Variable weight 400–800 (Regular to ExtraBold) | A text face, from Pushpananda's own Regular and Bold drawings |
-| **Sila** (සීල, "virtue") | Regular | A classic text face with teardrop terminals, for traditional book typography |
+| **Seela** (සීල, "virtue") | Regular | A classic text face with teardrop terminals, for traditional book typography |
 | **Viriya** (විරිය, "energy") | Regular | A narrow display face for headings, posters and signs |
 
 Pushpananda Ekanayake made these designs for a legacy (pre-Unicode) encoding. They have been converted to Unicode
@@ -33,7 +33,7 @@ The sources are UFOs in `sources/<Family>/`, with a designspace for Saddha's wei
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 cd sources/Saddha && ../../.venv/bin/gftools builder config.yaml
-cd ../Sila && ../../.venv/bin/gftools builder config.yaml
+cd ../Seela && ../../.venv/bin/gftools builder config.yaml
 cd ../Viriya && ../../.venv/bin/gftools builder config.yaml
 ```
 

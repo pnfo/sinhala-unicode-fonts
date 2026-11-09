@@ -1,10 +1,10 @@
 sources:
-- Sila-Regular.ufo
-familyName: Sila
+- Seela-Regular.ufo
+familyName: Seela
 buildVariable: false
 buildStatic: true
 buildOTF: false
 buildWebfont: true
 autohintTTF: true
 ttfaUseScript: true
-outputDir: ../../fonts/sila
+outputDir: ../../fonts/seela

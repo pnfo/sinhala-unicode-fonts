@@ -7,11 +7,11 @@
     <key>capHeight</key>
     <integer>700</integer>
     <key>copyright</key>
-    <string>Copyright 2026 The Sila Project Authors (https://github.com/pnfo/sinhala-unicode-fonts), original design by Pushpananda Ekanayake</string>
+    <string>Copyright 2026 The Seela Project Authors (https://github.com/pnfo/sinhala-unicode-fonts), original design by Pushpananda Ekanayake</string>
     <key>descender</key>
     <integer>-254</integer>
     <key>familyName</key>
-    <string>Sila</string>
+    <string>Seela</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -94,7 +94,7 @@
     <key>openTypeNameManufacturerURL</key>
     <string>http://www.mooniak.com/</string>
     <key>openTypeNameUniqueID</key>
-    <string>1.000;Sila-Regular</string>
+    <string>1.000;Seela-Regular</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -147,7 +147,7 @@
       <integer>762</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>Sila-Regular</string>
+    <string>Seela-Regular</string>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-270</integer>
@@ -181,7 +181,7 @@
     <key>postscriptUnderlineThickness</key>
     <integer>24</integer>
     <key>styleMapFamilyName</key>
-    <string>Sila</string>
+    <string>Seela</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
