@@ -2,10 +2,10 @@
 <glyph name="dottedCircle" format="2">
   <advance width="321"/>
   <unicode hex="25CC"/>
-  <anchor x="162" y="0" name="L2c0"/>
-  <anchor x="162" y="239" name="L3c0"/>
-  <anchor x="162" y="477" name="L4c0"/>
-  <anchor x="404" y="477" name="L5c0"/>
+  <anchor x="161" y="0" name="L2c0"/>
+  <anchor x="161" y="239" name="L3c0"/>
+  <anchor x="161" y="477" name="L4c0"/>
+  <anchor x="403" y="477" name="L5c0"/>
   <outline>
     <contour>
       <point x="255.5" y="104" type="curve" smooth="yes"/>

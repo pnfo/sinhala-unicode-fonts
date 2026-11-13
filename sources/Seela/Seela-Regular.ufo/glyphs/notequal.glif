@@ -9,7 +9,24 @@
       <point x="328" y="430" type="line"/>
       <point x="294" y="430" type="line"/>
     </contour>
-    <component base="equal"/>
+    <contour>
+      <point x="142" y="45" type="line"/>
+      <point x="176" y="45" type="line"/>
+      <point x="328" y="430" type="line"/>
+      <point x="294" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="271" type="line"/>
+      <point x="424" y="271" type="line"/>
+      <point x="424" y="307" type="line"/>
+      <point x="45" y="307" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="161" type="line"/>
+      <point x="424" y="161" type="line"/>
+      <point x="424" y="197" type="line"/>
+      <point x="45" y="197" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

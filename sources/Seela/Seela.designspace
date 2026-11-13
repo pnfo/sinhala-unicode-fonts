@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="800" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Seela-Regular.ufo" familyname="Seela" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Seela-ExtraBold.ufo" familyname="Seela" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Seela" stylename="Regular" filename="instance_ufos/Seela-Regular.ufo" postscriptfontname="Seela-Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="Seela" stylename="Medium" filename="instance_ufos/Seela-Medium.ufo" postscriptfontname="Seela-Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="Seela" stylename="SemiBold" filename="instance_ufos/Seela-SemiBold.ufo" postscriptfontname="Seela-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="Seela" stylename="Bold" filename="instance_ufos/Seela-Bold.ufo" postscriptfontname="Seela-Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Seela" stylename="ExtraBold" filename="instance_ufos/Seela-ExtraBold.ufo" postscriptfontname="Seela-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

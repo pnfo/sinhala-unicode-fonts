@@ -1,10 +1,12 @@
 sources:
-- Seela-Regular.ufo
+- Seela.designspace
 familyName: Seela
-buildVariable: false
+buildVariable: true
 buildStatic: true
 buildOTF: false
 buildWebfont: true
 autohintTTF: true
 ttfaUseScript: true
 outputDir: ../../fonts/seela
+axisOrder:
+- wght

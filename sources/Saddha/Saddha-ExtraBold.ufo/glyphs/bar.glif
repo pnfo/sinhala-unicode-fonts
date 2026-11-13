@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar" format="2">
-  <advance width="499"/>
+  <advance width="498"/>
   <unicode hex="007C"/>
   <guideline x="206" y="-136" angle="0"/>
   <outline>
     <contour>
-      <point x="220.89811950683594" y="-213.6" type="line"/>
-      <point x="277.288017578125" y="-213.6" type="line"/>
-      <point x="277.288017578125" y="676.4" type="line"/>
-      <point x="220.89811950683594" y="676.4" type="line"/>
+      <point x="221.07602172851563" y="-213.6" type="line"/>
+      <point x="276.71873046875" y="-213.6" type="line"/>
+      <point x="276.71873046875" y="676.4" type="line"/>
+      <point x="221.07602172851563" y="676.4" type="line"/>
     </contour>
   </outline>
 </glyph>

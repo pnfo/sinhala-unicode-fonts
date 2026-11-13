@@ -3,13 +3,13 @@
   <unicode hex="0331"/>
   <anchor x="0" y="0" name="_L2c0"/>
   <anchor x="0" y="0" name="_L9c0"/>
-  <anchor x="0" y="-132" name="L9c0"/>
+  <anchor x="0" y="-130" name="L9c0"/>
   <outline>
     <contour>
-      <point x="-129.05" y="-131.7896942138672" type="line"/>
-      <point x="129.05" y="-131.7896942138672" type="line"/>
-      <point x="129.05" y="-74.29653076171876" type="line"/>
-      <point x="-129.05" y="-74.29653076171876" type="line"/>
+      <point x="-129.05" y="-129.54812622070312" type="line"/>
+      <point x="129.05" y="-129.54812622070312" type="line"/>
+      <point x="129.05" y="-73.3002783203125" type="line"/>
+      <point x="-129.05" y="-73.3002783203125" type="line"/>
     </contour>
   </outline>
 </glyph>
